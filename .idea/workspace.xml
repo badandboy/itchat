@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e36a09be-081f-42fb-a9b6-86e5002a944f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Rihanna - Take a Bow.mp3" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Sugar - Maroon 5.mp4" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test3.py" />
-    </list>
+    <list default="true" id="e36a09be-081f-42fb-a9b6-86e5002a944f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
